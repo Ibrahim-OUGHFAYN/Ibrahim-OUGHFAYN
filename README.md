@@ -1,20 +1,49 @@
-# 👋 Hi, I'm Brahim Oughfayn
+## 👋 Salut, je suis Ibrahim OUGHFAYN  
+###### *`Créateur de magie numérique`*
 
-## 💻 I'm a Full-Stack Developer
+#### TECHNOLOGIES DE DÉVELOPPEMENT FRONT-END :  
+**`Langages & Technologies de base :`**
 
-- 🌍 From Morocco
-- 🧠 Learning React, Node.js, and AI
-- 🔭 Currently working on [Tourist Assistance App](https://github.com/yourproject)
-- ⚡ Fun fact: I love building things that help people
+[![Mes Compétences](https://skillicons.dev/icons?i=html,css,js,&perline=12)](https://skillicons.dev)
 
-## 🚀 Skills
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=fff)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
+**`Frameworks & Librairies Front-End :`**
 
-## 📫 Contact Me
-- 📧 brahim@example.com
-- ![LinkedIn](https://linkedin.com/in/yourprofile)
-- ![Portfolio Website](https://kyouare.vercel.app)
+[![Mes Compétences](https://skillicons.dev/icons?i=react,vite,nextjs,&perline=12)](https://skillicons.dev)
 
+**`Frameworks de Style & UI :`**
+
+[![Mes Compétences](https://skillicons.dev/icons?i=bootstrap,tailwind,shadcn,&perline=12)](https://skillicons.dev)
+
+---
+
+#### TECHNOLOGIES DE DÉVELOPPEMENT BACK-END :  
+**`Langages de Programmation :`**
+
+[![Mes Compétences](https://skillicons.dev/icons?i=js,py,php,&perline=12)](https://skillicons.dev)
+
+**`Frameworks & Librairies Back-End :`**
+
+[![Mes Compétences](https://skillicons.dev/icons?i=nodejs,express,django,&perline=12)](https://skillicons.dev)
+
+**`Bases de Données (SQL, NoSQL, ORMs) :`**
+
+[![Mes Compétences](https://skillicons.dev/icons?i=mongodb,firebase,mysql,sqlite,&perline=12)](https://skillicons.dev)
+
+---
+
+#### GESTION DES PAQUETS :  
+[![Mes Compétences](https://skillicons.dev/icons?i=npm,&perline=12)](https://skillicons.dev)
+
+---
+
+#### DEVOPS, DÉPLOIEMENT, TESTS, DÉBOGAGE, QUALITÉ DE CODE & OPTIMISATION DES PERFORMANCES :  
+[![Mes Compétences](https://skillicons.dev/icons?i=git,github,vercel,netlify,&perline=12)](https://skillicons.dev)
+
+---
+
+## Me Contacter  
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gdmail&logoColor=white)](mailto:oughfayn.mt@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahym-oughfayn/)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=global&logoColor=white)](https://ibrahim-oughfayn.github.io/my-Portfolio/)  
+[![Whatsapp](https://img.shields.io/badge/-Whatsapp-ff00000?style=flat-square&logo=gloal&logoColor=green)](https://wa.me/0702795242)
