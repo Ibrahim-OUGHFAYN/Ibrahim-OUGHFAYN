@@ -12,9 +12,10 @@
 [![Mes Compétences](https://skillicons.dev/icons?i=html,css,js&perline=12)](https://skillicons.dev)
 
 
-
+<br/>
+<br/>
 <details>
-  <summary  bgcolor="red"><strong>✨ Clique ici pour en savoir plus 👇</strong></summary>
+  <summary><h3>👇Voir Plus👇👇</h3></summary>
 
 <br/>
 
