@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Brahim Oughfayn
 
-<!--
-**Ibrahim-OUGHFAYN/Ibrahim-OUGHFAYN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 I'm a Full-Stack Developer
 
-Here are some ideas to get you started:
+- 🌍 From Morocco
+- 🧠 Learning React, Node.js, and AI
+- 🔭 Currently working on [Tourist Assistance App](https://github.com/yourproject)
+- ⚡ Fun fact: I love building things that help people
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=fff)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
+
+## 📫 Contact Me
+- 📧 brahim@example.com
+- [LinkedIn](https://linkedin.com/in/yourprofile)
+- [Portfolio Website](https://kyouare.vercel.app)
+
