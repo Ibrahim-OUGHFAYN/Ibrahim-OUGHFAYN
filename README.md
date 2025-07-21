@@ -1,8 +1,11 @@
 ## 👋 Salut, je suis Ibrahim OUGHFAYN  
 ###### *`Créateur de magie numérique`*
 
-<details>
-  <summary>Clique pour en savoir plus 👇</summary>
+<p align="center">
+  <details>
+    <summary><strong>✨ Clique pour en savoir plus 👇</strong></summary>
+
+<br/>
 
 #### TECHNOLOGIES DE DÉVELOPPEMENT FRONT-END :  
 **`Langages & Technologies de base :`**
