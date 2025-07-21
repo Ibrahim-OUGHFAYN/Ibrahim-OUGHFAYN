@@ -15,6 +15,6 @@
 
 ## 📫 Contact Me
 - 📧 brahim@example.com
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Portfolio Website](https://kyouare.vercel.app)
+- ![LinkedIn](https://linkedin.com/in/yourprofile)
+- ![Portfolio Website](https://kyouare.vercel.app)
 
