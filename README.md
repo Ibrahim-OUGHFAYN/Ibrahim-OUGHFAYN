@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   
 ## 👋 Salut, je suis Ibrahim OUGHFAYN  
 ###### *`Créateur de magie numérique`*
