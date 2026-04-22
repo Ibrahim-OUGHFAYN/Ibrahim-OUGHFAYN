@@ -7,34 +7,6 @@
 
 
 
-## 💻 Technologies Front-End  
-**Langages & technologies de base :**  
-[![Mes Compétences](https://skillicons.dev/icons?i=html,css,js&perline=12)](https://skillicons.dev)
-
-
-
-**Frameworks Front-End :**  
-[![Mes Compétences](https://skillicons.dev/icons?i=react,vite,nextjs&perline=12)](https://skillicons.dev)
-
-**Styling & UI :**  
-[![Mes Compétences](https://skillicons.dev/icons?i=tailwind,bootstrap,shadcn&perline=12)](https://skillicons.dev)
-
-
-## 🛠️ Technologies Back-End  
-**Langages de programmation :**  
-[![Mes Compétences](https://skillicons.dev/icons?i=js,py,php&perline=12)](https://skillicons.dev)
-
-**Frameworks Back-End :**  
-[![Mes Compétences](https://skillicons.dev/icons?i=nodejs,express,django&perline=12)](https://skillicons.dev)
-
-**Bases de données :**  
-[![Mes Compétences](https://skillicons.dev/icons?i=mongodb,firebase,mysql,sqlite&perline=12)](https://skillicons.dev)
-
-
-
-## 🧰 DevOps & Déploiement  
-[![Mes Compétences](https://skillicons.dev/icons?i=git,github,vercel,netlify&perline=12)](https://skillicons.dev)
-
 
 
 ## 📫 Me contacter  
